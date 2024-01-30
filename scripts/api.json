@@ -1,0 +1,8 @@
+{
+    "modrinth-v2": {
+        "getProject": "https://api.modrinth.com/v2/project/"
+    },
+    "curseforge": {
+        
+    }
+}
